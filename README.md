@@ -1,4 +1,4 @@
-### Hi there, I'm Jayvee
+## Hi there, I'm Jayvee
 
 Currently based in Sweden, I work as a software development consultant helping build complex and efficient applications and websites for clients from various industries. I am always eager to join new challenging projects that will take me up to speed with the newest and coolest frameworks and tools.
 
