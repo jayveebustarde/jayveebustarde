@@ -1,8 +1,8 @@
 ## Hi there, I'm Jayvee
 
-Currently based in Sweden, I work as a software development consultant helping build complex and efficient applications and websites for clients from various industries. I am always eager to join new challenging projects that will take me up to speed with the newest and coolest frameworks and tools.
+Currently based in Sweden, I am a software development consultant helping build complex and efficient applications and websites for clients from various industries. I am always eager to join new challenging projects that will take me up to speed with the newest and coolest frameworks and tools.
 
-I shifted to web development early in my career and have loved it ever since: starting with a .Net bootcamp and later becoming a full-stack developer that loves every layer of software development process.
+I shifted to web development early in my career and have loved it ever since: starting with a .Net bootcamp and later becoming a full-stack developer who loves every layer of the software development process.
 
 
 ### 🧰 My main toolkit
